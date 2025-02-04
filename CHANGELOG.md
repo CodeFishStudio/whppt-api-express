@@ -2,6 +2,31 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### 2.0.244 (2025-02-04)
+
+
+### Features
+
+* check for dependencies in saves and deletes ([d7c78fe](https://github.com/svelte-studios/whppt-api-express/commit/d7c78fe284385387335a27b4516edcf459fb5127))
+* clone component endpoint ([1dbc4b2](https://github.com/svelte-studios/whppt-api-express/commit/1dbc4b2a2031c39f0ba0f2a8b479ba18371e9bf3))
+* redirects router ([713c65f](https://github.com/svelte-studios/whppt-api-express/commit/713c65f9ad7da270cfe961a826431a05d8e2cd49))
+* reindexPages command ([e0a2a61](https://github.com/svelte-studios/whppt-api-express/commit/e0a2a61f803ac7d09e3463e256424928f5c231f3))
+* start of content extractors ([f348efc](https://github.com/svelte-studios/whppt-api-express/commit/f348efc94a4351b789d2c5af0ba38e6edbc186b8))
+
+
+### Bug Fixes
+
+* add check for site collection to be created ([a4e4924](https://github.com/svelte-studios/whppt-api-express/commit/a4e4924e3a4ae950618438b08bee5bb774adab39))
+* default mongo collections to empty array ([25600d6](https://github.com/svelte-studios/whppt-api-express/commit/25600d60a0f8cee796c362910f08f69d78b654e4))
+* duplicate id error for dependecies ([74088cb](https://github.com/svelte-studios/whppt-api-express/commit/74088cb3f5c8b348bdbe0bdcb45eebd464aa079c))
+* error handling in index router ([1b12c75](https://github.com/svelte-studios/whppt-api-express/commit/1b12c759c2d7cae5d43c3c6b77d6c8209a3f98e8))
+* if not a user, sitemap publishableByYou defaults to false ([4e42324](https://github.com/svelte-studios/whppt-api-express/commit/4e423241e28f5fba9a3aaf4b1cd14e0c1de44698))
+* only trim end of redirect from string ([aab47af](https://github.com/svelte-studios/whppt-api-express/commit/aab47af00c5f89d9c005cebf2f3531a691f5f7c5))
+* prevent default whppt componets extract error ([f881197](https://github.com/svelte-studios/whppt-api-express/commit/f881197c366e803ca1130588eece2582996a4bda))
+* remove falsy values from content extractions ([3bcfce5](https://github.com/svelte-studios/whppt-api-express/commit/3bcfce566234f6e2bf3990efe53a7ad65ce110e8))
+* use uniqid for extracted dependencies ([c417e11](https://github.com/svelte-studios/whppt-api-express/commit/c417e11085358441b18442d241cbba681fbe4047))
+* use uniqid in extracting content for foot/nav ([2934c69](https://github.com/svelte-studios/whppt-api-express/commit/2934c692e10ff7a74f339870e7e4635e92f2575a))
+
 ### [2.0.231](https://github.com/svelte-studios/whppt-api-express/compare/v2.0.230...v2.0.231) (2024-01-19)
 
 ### [2.0.230](https://github.com/svelte-studios/whppt-api-express/compare/v2.0.229...v2.0.230) (2024-01-19)
