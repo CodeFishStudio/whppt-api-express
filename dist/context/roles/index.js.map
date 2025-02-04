@@ -1,0 +1,1 @@
+{"version":3,"file":"index.js","sourceRoot":"","sources":["../../../src/context/roles/index.js"],"names":[],"mappings":";AAAA,MAAM,OAAO,GAAG,OAAO,CAAC,WAAW,CAAC,CAAC;AACrC,MAAM,aAAa,GAAG,OAAO,CAAC,iBAAiB,CAAC,CAAC;AACjD,MAAM,QAAQ,GAAG,OAAO,CAAC,YAAY,CAAC,CAAC;AAEvC,MAAM,CAAC,OAAO,GAAG;IACf,aAAa;IACb,QAAQ;IACR,OAAO;CACR,CAAC"}

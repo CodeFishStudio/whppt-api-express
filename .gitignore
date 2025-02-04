@@ -7,8 +7,6 @@ data
 package-lock.json
 
 .idea
-/types
-/dist
 coverage
 
 yarn-error.log

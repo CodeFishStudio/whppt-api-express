@@ -1,0 +1,1 @@
+{"version":3,"file":"saveFileDetails.js","sourceRoot":"","sources":["../../../src/modules/file/saveFileDetails.js"],"names":[],"mappings":";AAAA,MAAM,MAAM,GAAG,OAAO,CAAC,QAAQ,CAAC,CAAC;AAEjC,MAAM,CAAC,OAAO,GAAG;IACf,IAAI,CAAC,EAAE,MAAM,EAAE,EAAE,KAAK,EAAE,EAAE,EAAE,IAAI;QAC9B,MAAM,CAAC,IAAI,EAAE,iBAAiB,CAAC,CAAC;QAEhC,OAAO,KAAK,CAAC,OAAO,EAAE,IAAI,CAAC,CAAC;IAC9B,CAAC;CACF,CAAC"}

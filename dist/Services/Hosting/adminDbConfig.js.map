@@ -1,0 +1,1 @@
+{"version":3,"file":"adminDbConfig.js","sourceRoot":"","sources":["../../../src/Services/Hosting/adminDbConfig.ts"],"names":[],"mappings":";;;AAEa,QAAA,aAAa,GAA0B;IAClD,IAAI,EAAE,OAAO;IACb,QAAQ,EAAE,EAAE,GAAG,EAAE,cAAc,EAAE,GAAG,EAAE,OAAO,CAAC,GAAG,CAAC,SAAS,IAAI,EAAE,EAAE;IACnE,EAAE,EAAE,OAAO,CAAC,GAAG,CAAC,cAAc,IAAI,YAAY;IAC9C,KAAK,EAAE,EAAE;CACV,CAAC"}

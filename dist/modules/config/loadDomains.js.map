@@ -1,0 +1,1 @@
+{"version":3,"file":"loadDomains.js","sourceRoot":"","sources":["../../../src/modules/config/loadDomains.js"],"names":[],"mappings":";AAAA,MAAM,CAAC,OAAO,GAAG;IACf,IAAI,CAAC,EAAE,MAAM,EAAE,EAAE,GAAG,EAAE,EAAE;QACtB,OAAO,GAAG,CAAC,UAAU,CAAC,SAAS,CAAC,CAAC,IAAI,EAAE,CAAC,OAAO,EAAE,CAAC;IACpD,CAAC;CACF,CAAC"}
